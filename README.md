@@ -1,2 +1,1 @@
 # AIGC-Learn
-# AIGC-Learn
